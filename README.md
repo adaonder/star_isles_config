@@ -14,7 +14,7 @@ Okunan adres:
 |---|---|
 | `minVersion` | Derleme numarası bunun **altındaysa** güncelleme **zorunlu**: kapatılamayan diyalog, GÜNCELLE mağazayı açar. |
 | `targetVersion` | Bunun altındaysa güncelleme **önerilir**: GÜNCELLE / SONRA, her açılışta bir kez. |
-| `infoVersion` | Bunun altındaysa yalnız ana menüdeki sürüm satırı yeni sürümü gösterir; diyalog yok. |
+| `infoVersion` | Bunun altındaysa yalnız Ayarlar'daki sürüm etiketi yeni sürümü gösterir; diyalog yok. |
 | `versionName` | Diyalog ve menü satırında gösterilen yeni sürüm adı (`1.0.3` gibi). |
 
 Sıra: zorunlu > önerilen > bilgi. Alan yoksa ya da dosya okunamazsa oyun
